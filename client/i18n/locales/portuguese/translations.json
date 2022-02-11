@@ -449,7 +449,7 @@
     "magnifier": "lupa"
   },
   "aria": {
-    "fcc-logo": "Logotipo do freeCodeCamp",
+    "fcc-curriculum": "freeCodeCamp Curriculum",
     "answer": "Resposta",
     "linkedin": "Link para o LinkedIn de {{username}}",
     "github": "Link para o GitHub de {{username}}",

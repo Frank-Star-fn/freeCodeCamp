@@ -449,7 +449,7 @@
     "magnifier": "лупа"
   },
   "aria": {
-    "fcc-logo": "Логотип freeCodeCamp ",
+    "fcc-curriculum": "freeCodeCamp Curriculum",
     "answer": "Відповідь",
     "linkedin": "Посилання на сторінку LinkedIn {{username}}",
     "github": "Посилання на сторінку GitHub {{username}}",

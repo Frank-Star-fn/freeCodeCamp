@@ -449,7 +449,7 @@
     "magnifier": "放大鏡"
   },
   "aria": {
-    "fcc-logo": "freeCodeCamp 徽標",
+    "fcc-curriculum": "freeCodeCamp Curriculum",
     "answer": "答案",
     "linkedin": "鏈接到 {{username}} 的 LinkedIn",
     "github": "鏈接到 {{username}} 的 GitHub",
